@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Osborn teste",
+    "email": "Henderson@mail.com",
+    "password": "123456",
+    "active": false,
+    "role": "USUARIO",
+    "token": "b9797886-4f2c-4818-9e00-0d67038ad955"
+  },
+  {
+    "token": "c4c12b0a-48e1-4e89-b183-f1b85ea87242",
+    "name": "Daniels",
+    "email": "Fry@mail.com",
+    "password": "123456",
+    "active": false,
+    "role": "USUARIO"
+  },
+  {
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f",
+    "name": "Administrador",
+    "email": "admin@mail.com",
+    "password": "123456",
+    "active": true,
+    "role": "ADMIN"
+  },
+  {
+    "token": "84205119-a904-44f2-8b1e-3c49a1adf4b5",
+    "name": "Usuário",
+    "email": "usuario@mail.com",
+    "password": "123456",
+    "active": true,
+    "role": "USUARIO"
+  },
+  {
+    "token": "84205119-a904-44f2-8b1e-3c49a1adf4b6",
+    "name": "Usuário Inativo",
+    "email": "usuario_inativo@mail.com",
+    "password": "123456",
+    "active": false,
+    "role": "USUARIO"
+  }
+]

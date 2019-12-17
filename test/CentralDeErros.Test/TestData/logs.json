@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1025db03-33b0-4934-af17-0b21e2555d7c",
+    "title": "acceleration.Service.AddCandidate: <forbidden>",
+    "detail": "File /src/core/net/http/server.go, line 308, in (service).log",
+    "evento": 1000,
+    "enabled": true,
+    "level": "R",
+    "createdAt": "2019/12/17 15:38:14",
+    "ip": "127.0.0.1",
+    "environment": "H",
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f"
+  },
+  {
+    "id": "7b416576-6d16-453e-b8bd-bf756dacc9c6",
+    "title": "acceleration.Service.AddCandidate: <forbidden>",
+    "detail": "File /src/core/net/http/server.go, line 308, in (service).log",
+    "evento": 2000,
+    "enabled": false,
+    "level": "R",
+    "createdAt": "2019/12/17 15:38:14",
+    "ip": "127.0.0.1",
+    "environment": "H",
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f"
+  },
+  {
+    "id": "f91dfe47-1a7b-4677-8044-6c6a1d64c994",
+    "title": "acceleration.Service.AddCandidate: <forbidden>",
+    "detail": "File /src/core/net/http/server.go, line 308, in (service).log",
+    "evento": 1000,
+    "enabled": true,
+    "level": "R",
+    "createdAt": "2019/12/17 15:38:14",
+    "ip": "127.0.0.1",
+    "environment": "H",
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f"
+  },
+  {
+    "id": "ea5bbe19-d954-41a6-8724-bef0f8f6a884",
+    "title": "acceleration.Service.AddCandidate: <forbidden>",
+    "detail": "File /src/core/net/http/server.go, line 308, in (service).log",
+    "evento": 1000,
+    "enabled": false,
+    "level": "R",
+    "createdAt": "2019/12/17 15:38:14",
+    "ip": "127.0.0.1",
+    "environment": "H",
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f"
+  },
+  {
+    "id": "8c4af570-4733-4502-9da6-7161d5770239",
+    "title": "acceleration.Service.AddCandidate: <forbidden>",
+    "detail": "File /src/core/net/http/server.go, line 308, in (service).log",
+    "evento": 1000,
+    "enabled": true,
+    "level": "R",
+    "createdAt": "2019/12/17 15:38:14",
+    "ip": "127.0.0.1",
+    "environment": "H",
+    "token": "8fd56826-43cb-4604-aecc-298d8c4e551f"
+  }
+]
